@@ -1,0 +1,11 @@
+.optionButton {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  margin-top: 20px;
+}
+.styleButton {
+  border-width: 2px; /* Толщина */
+  border-style: solid; /* Стиль */
+  border-color: black;
+}

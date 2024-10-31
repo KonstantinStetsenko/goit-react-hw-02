@@ -1,0 +1,5 @@
+.styleButton {
+  border-width: 2px; /* Толщина */
+  border-style: solid; /* Стиль */
+  border-color: black;
+}
